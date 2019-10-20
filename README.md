@@ -23,3 +23,11 @@ https://www.cyberciti.biz/faq/installing-rhel-epel-repo-on-centos-redhat-7-x/
 wget https://dl.fedoraproject.org/pub/epel/epel-release-latest-7.noarch.rpm
 
 sudo yum install epel-release-latest-7.noarch.rpm
+
+<h1>Ansible</h1>
+after installing epel
+
+
+sudo yum update
+
+sudo yum install ansible
