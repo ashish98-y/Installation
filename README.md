@@ -13,6 +13,7 @@ config java if you have multiple java installed
 
 sudo sed -i s/\$releasever/6/g /etc/yum.repos.d/epel-apache-maven.repo
 
+
 sudo yum install -y apache-maven
 
 <h1>install epel </h1>
